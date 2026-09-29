@@ -1,0 +1,123 @@
+﻿@model IEnumerable<Asistencia_de_trabajadores.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Gestionar trabajadores";
+}
+
+<div style="text-align: center; margin-top: 60px;">
+<div style="border: 1px solid #ccc; padding: 30px; width: 900px; margin: 0 auto;">
+
+    <h2>Gestionar trabajadores</h2>
+    <br />
+
+    <form asp-action="Crear" method="post">
+
+        <div>
+            <input name="nombre" placeholder="Nombre" required />
+
+            <input name="apellido" placeholder="Apellido" required />
+        </div>
+        <br />
+        <div>
+            <input name="correo" type="email" placeholder="Correo" required />
+
+            <input name="rut" placeholder="RUT" required />
+        </div>
+        <br />
+        <div>
+            <input name="contraseña" type="password" placeholder="Contraseña" required />
+        </div>
+
+        <br />
+        <button type="submit">Agregar trabajador</button>
+
+    </form>
+    <br />
+    <hr /> 
+    <br />
+
+    <table border="1" style="width: 100%;">
+
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Correo</th>
+                <th>RUT</th>
+                <th>Editar</th>
+                <th>Eliminar</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+
+        @foreach (var trabajador in Model)
+        {
+            <tr>
+
+                <td>@trabajador.Nombre</td>
+                <td>@trabajador.Apellido</td>
+                <td>@trabajador.Correo</td>
+                <td>@trabajador.rut</td>
+
+                <td style="text-align: left; padding: 5px;">
+                    <details style="cursor: pointer;">
+                        <summary style="padding: 5px;">Editar</summary>
+                        
+                        <form asp-action="Editar" method="post" style="padding: 10px; margin-top: 5px;">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="idUsuario" value="@trabajador.id_usuario" />
+
+                            <div style="margin-bottom: 5px;">
+                                <input name="nombre" value="@trabajador.Nombre" required style="width: 80%;" />
+                            </div>
+                            <div style="margin-bottom: 5px;">
+                                <input name="apellido" value="@trabajador.Apellido" required style="width: 80%;" />
+                            </div>
+                            <div style="margin-bottom: 5px;">
+                                <input name="correo" type="email" value="@trabajador.Correo" required style="width: 80%;" />
+                            </div>
+                            <div style="margin-bottom: 5px;">
+                                <input name="rut" value="@trabajador.rut" required style="width: 90%;" />
+                            </div>
+                            <div style="margin-bottom: 8px;">
+                                <input name="contraseña" type="text" value="@trabajador.Contraseña" style="width: 80%;" />
+                            </div>
+                            
+                            <button type="submit" style="font-size: 11px; padding: 3px 8px;">
+                                Guardar
+                            </button>
+                        </form>
+                    </details>
+                </td>
+
+                <td>
+
+                    <form asp-action="Eliminar" method="post">
+
+                        <input type="hidden" name="idUsuario" value="@trabajador.id_usuario" />
+
+                        <button type="submit" onclick="return confirm('¿Eliminar este trabajador?');">
+                            Eliminar
+                        </button>
+
+                    </form>
+
+                </td>
+
+
+            </tr>
+        }
+
+        </tbody>
+
+    </table>
+    <br />
+    <a asp-controller="Admin"
+       asp-action="Index">
+        Volver
+    </a>
+
+</div>
+</div>

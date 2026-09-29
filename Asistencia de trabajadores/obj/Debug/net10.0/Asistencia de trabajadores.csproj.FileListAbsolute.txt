@@ -1,0 +1,377 @@
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\appsettings.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.staticwebassets.runtime.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.staticwebassets.endpoints.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.exe
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.deps.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.runtimeconfig.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.pdb
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Humanizer.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.csproj.AssemblyReference.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.AssemblyInfoInputs.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.AssemblyInfo.cs
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.csproj.CoreCompileInputs.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.RazorAssemblyInfo.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.RazorAssemblyInfo.cs
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\scopedcss\bundle\Asistencia de trabajadores.styles.css
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\scopedcss\projectbundle\Asistencia de trabajadores.bundle.scp.css
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\mdv6ffeokg-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\h91fn2heyk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\zd8yofr34u-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\9ego2ciru7-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\uj5f4vwr7w-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\imwb1qusb7-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\2v30cn1h13-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gkbi9iviwm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\jexr10s0zf-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gbcikr1hba-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\szi0ka14xi-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gs4rp8i3lq-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\cvi6ql4xl3-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\lbhhjmngdf-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\88oui0as8e-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\bi9x79mqqi-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\t8g66t6dpb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\lcrs66ppmg-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\830uh9or9g-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\4uwh5v0sjj-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\u72bhilt13-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\vg7kliuao7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\v7a8cbnv6u-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\r4nwxkoaj6-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\qqsmjzle2z-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\x0s47sf3u6-{0}-06098lyss8-06098lyss8.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gs74ukgvyn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\eqwz2ev2vi-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\xwlwvb2hn0-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\753g1daddr-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\vdqdi1b9sy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\yum47o56fz-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\sp78mzlmsy-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\iw7iu6licw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\avbn84diag-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\jwevm6wh30-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\nxx2vyasmu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\d9taecdmmr-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\v2p5a9yy8i-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\8zgsxad4gj-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\a9s2eo143n-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\vg9wcf8osv-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\mz9y9uuzse-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\r5aqj0p2ba-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\sqe5e94z5t-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\erf9cy7nn2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\5ytrrsv73m-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\xqvx3d2nkc-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\ctvwv7iobb-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\uenwzyxorx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\r0ev15k908-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\ercafwcqrd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\20t95qmkke-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\rd3cs0xe0m-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\3e1nuyqhqk-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\crd625ngt0-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\uereqi7s32-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\k92dj2m5wb-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\i88g2psoi5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\stz4ilr6bi-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\hzsghkeim9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\n0ja4bor3u-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\jz0hl1ft16-{0}-2qkvx1c81y-2qkvx1c81y.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\fg052llg4w-{0}-2qkvx1c81y-2qkvx1c81y.gz
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistenc.1F7B3850.Up2Date
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\refint\Asistencia de trabajadores.dll
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.pdb
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.genruntimeconfig.cache
+C:\Users\mosco\source\repos\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\ref\Asistencia de trabajadores.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\appsettings.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.staticwebassets.endpoints.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.staticwebassets.runtime.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.exe
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.deps.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.runtimeconfig.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Asistencia de trabajadores.pdb
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Humanizer.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.csproj.AssemblyReference.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.AssemblyInfoInputs.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.AssemblyInfo.cs
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.csproj.CoreCompileInputs.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.RazorAssemblyInfo.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.RazorAssemblyInfo.cs
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.sourcelink.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\scopedcss\bundle\Asistencia de trabajadores.styles.css
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\scopedcss\projectbundle\Asistencia de trabajadores.bundle.scp.css
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\mdv6ffeokg-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\h91fn2heyk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\zd8yofr34u-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\9ego2ciru7-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\uj5f4vwr7w-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\imwb1qusb7-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\2v30cn1h13-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gkbi9iviwm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\jexr10s0zf-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gbcikr1hba-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\szi0ka14xi-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gs4rp8i3lq-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\cvi6ql4xl3-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\lbhhjmngdf-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\88oui0as8e-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\bi9x79mqqi-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\t8g66t6dpb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\lcrs66ppmg-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\830uh9or9g-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\4uwh5v0sjj-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\u72bhilt13-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\vg7kliuao7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\v7a8cbnv6u-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\r4nwxkoaj6-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\qqsmjzle2z-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\x0s47sf3u6-{0}-06098lyss8-06098lyss8.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\gs74ukgvyn-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\eqwz2ev2vi-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\xwlwvb2hn0-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\753g1daddr-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\vdqdi1b9sy-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\yum47o56fz-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\sp78mzlmsy-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\iw7iu6licw-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\avbn84diag-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\jwevm6wh30-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\nxx2vyasmu-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\d9taecdmmr-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\v2p5a9yy8i-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\8zgsxad4gj-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\a9s2eo143n-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\vg9wcf8osv-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\mz9y9uuzse-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\r5aqj0p2ba-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\sqe5e94z5t-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\erf9cy7nn2-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\5ytrrsv73m-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\xqvx3d2nkc-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\ctvwv7iobb-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\uenwzyxorx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\r0ev15k908-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\ercafwcqrd-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\20t95qmkke-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\rd3cs0xe0m-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\3e1nuyqhqk-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\crd625ngt0-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\uereqi7s32-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\k92dj2m5wb-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\i88g2psoi5-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\stz4ilr6bi-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\hzsghkeim9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\n0ja4bor3u-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\jz0hl1ft16-{0}-2qkvx1c81y-2qkvx1c81y.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\compressed\fg052llg4w-{0}-2qkvx1c81y-2qkvx1c81y.gz
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistenc.1F7B3850.Up2Date
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\refint\Asistencia de trabajadores.dll
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.pdb
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\Asistencia de trabajadores.genruntimeconfig.cache
+C:\Users\mosco\OneDrive\Desktop\Asistencia de trabajadores\Asistencia de trabajadores\obj\Debug\net10.0\ref\Asistencia de trabajadores.dll

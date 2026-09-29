@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Panel Administrador";
+}
+
+<div style="text-align: center; margin-top: 100px;">
+
+<div style="border: 1px solid #ccc; padding: 30px; width: 600px; margin: 0 auto;">
+
+    <p>Selecciona una opción</p>
+
+    <br />
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+        
+        <a asp-controller="Reporte" 
+           asp-action="Atrasos" 
+           style="text-decoration: none; color: black; border: 1px solid #ccc; padding: 20px;">
+            Atrasos
+        </a>
+
+        <a asp-controller="Reporte"
+           asp-action="SalidasAnticipadas"
+           style="text-decoration: none; color: black; border: 1px solid #ccc; padding: 20px;">
+            Salidas anticipadas
+        </a>
+
+        <a asp-controller="Reporte"
+           asp-action="Inasistencias"
+           style="text-decoration: none; color: black; border: 1px solid #ccc; padding: 20px;">
+            Inasistencias
+        </a>
+
+        <a asp-controller="Usuario"
+           asp-action="Index"
+           style="text-decoration: none; color: black; border: 1px solid #ccc; padding: 20px;">
+            Gestionar trabajadores
+        </a>
+    </div>
+    <br /><br />
+    <br />
+
+
+    <a asp-controller="Login" asp-action="CerrarSesion">Cerrar sesión</a>
+</div>
+</div>
+

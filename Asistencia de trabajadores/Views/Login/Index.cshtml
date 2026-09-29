@@ -1,0 +1,29 @@
+﻿@{
+ViewData["Title"] = "Inicio de sesión";
+}
+<div style="text-align: center; margin-top: 150px;">
+<h2>Monitoreo de Trabajadores</h2>
+
+<div style="border: 1px solid #ccc; padding: 20px; width: 350px; margin: 20px auto;">
+	<h3>Iniciar sesión</h3>
+
+    @if (ViewBag.Error != null)
+    {
+      <p>@ViewBag.Error</p>
+    }
+
+    <form asp-controller="Login" asp-action="Index" method="post">
+        <div>
+            <label>Correo</label>
+            <input type="email" name="correo" required />
+        </div>
+        <br />
+        <div>
+            <label>Contraseña</label>
+            <input type="password" name="contraseña" required />
+        </div>
+        <br />
+        <button type="submit">Ingresar</button>
+    </form>
+</div>
+</div>

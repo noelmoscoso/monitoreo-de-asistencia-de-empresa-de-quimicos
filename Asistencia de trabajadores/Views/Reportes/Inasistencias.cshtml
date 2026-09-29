@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Asistencia_de_trabajadores.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Inasistencias";
+}
+
+<div style="text-align: center; margin-top: 80px;">
+<div style="border: 1px solid #ccc; padding: 30px; width: 800px; margin: 0 auto;">
+    
+    <h1>Reporte de inasistencias</h1>
+    <br />
+    <form asp-controller="Reporte"
+          asp-action="Inasistencias"
+          method="get">
+
+        <label>Seleccionar fecha:</label>
+
+        <input type="date"
+               name="fecha"
+               value="@(ViewBag.Fecha != null ? ((DateTime)ViewBag.Fecha).ToString("yyyy-MM-dd") : DateTime.Now.ToString("yyyy-MM-dd"))" />
+
+        <button type="submit">Buscar</button>
+
+    </form>
+    <br />
+    <table border="1" style="width: 100%;">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Estado</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var trabajador in Model)
+                {
+                    <tr>
+                        <td>@trabajador.Nombre</td>
+                        <td>@trabajador.Apellido</td>
+                        <td>Sin asistencia</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3">No hay inasistencias registradas para esta fecha.</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <br />
+    <a asp-controller="Admin"
+       asp-action="Index">
+        Volver
+    </a>
+
+</div>

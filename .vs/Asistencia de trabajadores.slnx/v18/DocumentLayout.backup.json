@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\views\\reportes\\atrasos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\views\\reportes\\atrasos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\views\\reportes\\salidasanticipadas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\views\\reportes\\salidasanticipadas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\views\\trabajador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\views\\trabajador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|c:\\users\\mosco\\onedrive\\desktop\\asistencia de trabajadores\\asistencia de trabajadores\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5073DAE3-D215-7BE8-67DF-9D70A93AD8D9}|Asistencia de trabajadores\\Asistencia de trabajadores.csproj|solutionrelative:asistencia de trabajadores\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajadorController.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\TrabajadorController.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Controllers\\TrabajadorController.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\TrabajadorController.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Controllers\\TrabajadorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T02:29:47.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\appsettings.json",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\appsettings.json",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\appsettings.json",
+              "RelativeToolTip": "Asistencia de trabajadores\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T01:48:00.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:23:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalidasAnticipadas.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Reportes\\SalidasAnticipadas.cshtml",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Views\\Reportes\\SalidasAnticipadas.cshtml",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Reportes\\SalidasAnticipadas.cshtml",
+              "RelativeToolTip": "Asistencia de trabajadores\\Views\\Reportes\\SalidasAnticipadas.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T22:16:58.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Controllers\\AsistenciaController.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\AsistenciaController.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Controllers\\AsistenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:12:34.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\Usuario.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:04:11.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:03:59.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\Asistencia.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Models\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\Asistencia.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Models\\Asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:03:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Atrasos.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Reportes\\Atrasos.cshtml",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Views\\Reportes\\Atrasos.cshtml",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Reportes\\Atrasos.cshtml",
+              "RelativeToolTip": "Asistencia de trabajadores\\Views\\Reportes\\Atrasos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T21:36:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:35:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Models\\Rol.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:35:22.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Asistencia de trabajadores\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T13:33:18.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Asistencia de trabajadores\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T03:41:15.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Asistencia de trabajadores\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T19:57:51.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Asistencia de trabajadores\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T19:57:27.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Trabajador\\Index.cshtml",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Views\\Trabajador\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Views\\Trabajador\\Index.cshtml",
+              "RelativeToolTip": "Asistencia de trabajadores\\Views\\Trabajador\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T19:57:16.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Asistencia de trabajadores\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\mosco\\OneDrive\\Desktop\\Asistencia de trabajadores\\Asistencia de trabajadores\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Asistencia de trabajadores\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T19:38:52.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

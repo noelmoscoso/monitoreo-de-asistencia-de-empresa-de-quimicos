@@ -1,0 +1,22 @@
+﻿@{
+ViewData["Title"] = "Panel Trabajador";
+}
+
+<div style="text-align: center; margin-top: 100px;">
+
+<div style="border: 1px solid #ccc; padding: 30px; width: 400px; margin: 0 auto;">
+    <h2>Panel del Trabajador</h2>
+
+    <p>Registra tu entrada y salida</p>
+    <br />
+    <form asp-controller="Asistencia" asp-action="RegistrarEntrada" method="post">
+        <button type="submit">Registrar entrada</button>
+    </form>
+    <br />
+    <form asp-controller="Asistencia" asp-action="RegistrarSalida" method="post">
+        <button type="submit">Registrar salida</button>
+    </form>
+    <br />
+    <a asp-controller="Login" asp-action="CerrarSesion"> Cerrar sesión </a>
+</div>
+</div>

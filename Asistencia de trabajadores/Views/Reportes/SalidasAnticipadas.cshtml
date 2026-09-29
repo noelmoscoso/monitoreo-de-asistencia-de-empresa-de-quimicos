@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Asistencia_de_trabajadores.Models.Asistencia>
+
+@{
+    ViewData["Title"] = "Salidas anticipadas";
+}
+
+<div style="text-align: center; margin-top: 80px;">
+
+<div style="border: 1px solid #ccc; padding: 30px; width: 800px; margin: 0 auto;">
+    
+    <h1>Reporte de salidas anticipadas</h1>
+    <br />
+    <form asp-controller="Reporte"
+          asp-action="SalidasAnticipadas"
+          method="get">
+
+        <label>Seleccionar fecha:</label>
+
+        <input type="date"
+               name="fecha"
+               value="@(ViewBag.Fecha != null ? ((DateTime)ViewBag.Fecha).ToString("yyyy-MM-dd") : DateTime.Now.ToString("yyyy-MM-dd"))" />
+
+        <button type="submit">
+            Buscar
+        </button>
+    </form>
+    <br />
+
+    <table border="1" style="width: 100%;">
+
+        <thead>
+            <tr>
+                <th>Trabajador</th>
+                <th>Fecha</th>
+                <th>Hora de salida</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                    @foreach (var asistencia in Model)
+                    {
+                    <tr>
+                        <td>
+                            @asistencia.Usuario.Nombre
+                            @asistencia.Usuario.Apellido
+                        </td>
+
+                        <td>
+                            @asistencia.fecha.ToString("dd/MM/yyyy")
+                        </td>
+
+                        <td>
+                            @asistencia.hora_salida
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3">No hay registros de salidas anticipadas para esta fecha.</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <br />
+    <a asp-controller="Admin"
+       asp-action="Index">
+        Volver
+    </a>
+
+</div>
+</div>
